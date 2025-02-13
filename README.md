@@ -1,5 +1,5 @@
 Control de Temperatura en Tiempo Real
-Lorenzo Biondi de la Rosa, Matrícula 19-0629
+- Lorenzo Biondi de la Rosa, Matrícula 19-0629
 
 Este proyecto se centra en la creación de un programa simple de control de temperatura en tiempo real, basado en la captura y decodificación de mensajes capturados en un servidor de redis.
 
