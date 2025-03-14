@@ -13,4 +13,5 @@ https://youtu.be/ULlPyO1-xTs
 Enlace a la entrega con semáforo:
 https://youtu.be/qRohzLRp9BE 
 
-Enlace a la explicación de la entrega con concurrencia:
+Enlace a la explicación de la entrega con concurrencia: 
+https://youtu.be/oRdPpbV71gU
