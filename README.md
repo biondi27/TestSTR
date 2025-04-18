@@ -7,6 +7,10 @@ Los mensajes enviados a través ~del servidor~ de la consola sirven como modelos
 
 13/03/2025 - Codigo ajustado para la entrega de las tareas de concurrencia, recursión y manejo de excepciones.
 
+18/04/2024 - Programa mejorado para la entrega final. El manejo de excepciones ha sido mejorado, se añadió una nueva función para crear logs de la temperatura automáticamente y se implementó un método para evitar conflictos al momento de editar estos logs.
+
+Enlace a la explicación de la entrega final: https://youtu.be/K5osrVUYSvk
+
 Enlace a la explicación del código con funcionalidad de Redis:
 https://youtu.be/ULlPyO1-xTs
 
